@@ -3,6 +3,11 @@ h1{
   text-align:center; 
   
 }/*大標題置中，顏色設為黑*/
+h2{
+   background-color:black;
+   color:gray;
+}/*設定最後一行的設計*/
+
 
 #id1{
    background-color:#d1cdda;
@@ -30,10 +35,5 @@ a:hover{
 a:active{
   color:yellow;
 }/*滑鼠按下去時的特效*/
-
-h2{
-   background-color:black;
-   color:gray;
-}/*設定最後一行的設計*/
 
 
