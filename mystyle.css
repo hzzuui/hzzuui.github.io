@@ -14,7 +14,10 @@ h1{
    font-size:20px;
 
 }/*內文文字設定*/
-
+li{
+   color:black;
+   font-size:22px;
+}/*設定li內的文字*/
 a:link{
   color:blue;
 }/*未連結的網址*/
