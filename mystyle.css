@@ -2,29 +2,30 @@ h1{
   color:black;
   text-align:center; 
   
-}
+}/*大標題置中，顏色設為黑*/
 
 #id1{
    background-color:#d1cdda;
    color:black;
    font-size:24px;
-}
+}/*內文標題設定*/
 #id2{
    color:gray;
    font-size:20px;
 
-}
+}/*內文文字設定*/
+
 a:link{
   color:blue;
-}
+}/*未連結的網址*/
 a:visited{
   color:green;
-}
+}/*已連結過的網址*/
 a:hover{
   color:red;
-}
+}/*滑鼠移至連結時的特效*/
 a:active{
   color:yellow;
-}
+}/*滑鼠按下去時的特效*/
 
 
