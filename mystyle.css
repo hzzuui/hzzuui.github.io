@@ -1,0 +1,30 @@
+h1{
+  color:black;
+  text-align:center; 
+  
+}
+
+#id1{
+   background-color:#d1cdda;
+   color:black;
+   font-size:24px;
+}
+#id1{
+   color:gray;
+   font-size:20px;
+
+}
+a:link{
+  color:blue;
+}
+a:visited{
+  color:green;
+}
+a:hover{
+  color:red;
+}
+a:active{
+  color:yellow;
+}
+
+
