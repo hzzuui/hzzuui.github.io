@@ -30,5 +30,9 @@ a:hover{
 a:active{
   color:yellow;
 }/*滑鼠按下去時的特效*/
+h2{
+   background-color:black;
+   color:gray;
+}/*設定最後一行的設計*/
 
 
